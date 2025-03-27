@@ -1,16 +1,24 @@
-# fastfood_app
+# FastFood Delivery mobile app
 
-A new Flutter project.
+**FastFood-DeliveryApp ** is a high-performance mobile application for ordering fast food and tracking deliveries in real-time. Built using Flutter, this app provides a seamless user experience with interactive UI and efficient backend integration.
 
-## Getting Started
+## Skills Used
 
-This project is a starting point for a Flutter application.
+*This project highlights the following skills*:
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter Development**: Cross-platform mobile app development.
+- **Dart Programming**: Efficient coding for Flutter applications.
+- **State Management**: Managing app state using Provider/Riverpod.
+- **Firebase Integration**: Authentication and real-time database management.
+- **UI/UX Design**: Creating a visually appealing and user-friendly interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Languages Used
+
+- **Dart**: Primary programming language (80%)
+- **Flutter**: UI framework for mobile development
+- **Firebase**: Authentication & real-time database
+
+
